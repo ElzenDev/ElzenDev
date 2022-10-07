@@ -1,16 +1,17 @@
 ## 👋 Olá! Eu sou o Emanuel Jacinto
-### 👀 Sobre mim :...
+### 👀 Sobre mim :
 - 👦🏿 15 anos de idade...
 - 🌱 Aprendendo JavaScript, HTML, Css e Python...
 - 📖 treinando"front-end"...
-<div align="left">
+
+<div align="center">
   <a href="https://github.com/elzendev">
   <img height="42%" src="https://github-readme-stats.vercel.app/api?username=elzendev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzendev&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   
-<div style="display: inline_block"><br>
+<div align ="center" style="display: inline_block"><br>
   <img align="center" alt="Elzen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elzen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elzen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
