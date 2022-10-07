@@ -4,7 +4,7 @@
 - 🌱 Aprendendo JavaScript, HTML, Css e Python...
 - 📖 treinando"front-end"...
 
-<div align="center">
+<div >
   <a href="https://github.com/elzendev">
   <img height="42%" src="https://github-readme-stats.vercel.app/api?username=elzendev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzendev&layout=compact&langs_count=7&theme=radical"/>
