@@ -1,15 +1,8 @@
 ## 👋 Olá Mundo! Eu sou o Emanuel Jacinto
 ### 👀 Sobre mim :
-- 👦🏿 16 anos de idade...
-- 🌱 Aprendendo HTML, Css e Python...
-- 📖 estudando programação...
+- 👦🏿 17 anos de idade...
+- 🌱 Aprendendo React e Tailwind...
 
-<div >
-  <a href="https://github.com/elzendev">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=elzendev&show_icons=true&theme=radical&include_all_commits=false&count_private=false"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzendev&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
   
 <div align ="center" style="display: inline_block"><br>
   <img align="center" alt="Elzen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +14,7 @@
 ##
   
 <div>
-  <a href = "mailto:manfufas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "mailto:elzenflow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
 <!---
